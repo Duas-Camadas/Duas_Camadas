@@ -1,0 +1,39 @@
+.container .plano-de-fundo {
+    position: relative;
+    right: 120px;
+    background-image: url(../img/diahelp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1350px;
+    height: 480px;
+}
+
+header h1 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 100px;
+}
+
+.fotos img {
+    position: relative;
+    top: 220px;
+    margin-left: 30px;
+}
+
+.container h2 {
+    position: relative;
+    top: 220px;
+
+}
+
+.title h2 {
+    margin-left: 5.6%;
+    margin-right: 2.1%;
+
+}
+
+
+
